@@ -2,7 +2,7 @@
 I'm Luca, a computer science and engineering student.
 
 ## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dear-Luca&layout=compact&theme=radical)
 
 <!--
 **Dear-Luca/Dear-Luca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
